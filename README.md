@@ -1,6 +1,6 @@
 ### Hi there | Meu nome é Tiago! 👋 
 
-# DEV em formação :computer: | :calendar: | :books: | :rocket:
+# DEV em formação :computer: | :books: | :rocket:
 
 ### ONE- Oracle Next Education + Alura
 
@@ -8,10 +8,11 @@ Com o ONE vou me preparar para o emprego do futuro e ter novas oportunidades no 
 
 Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard** e **soft skills**, com foco em programação e empreendedorismo.
 
+[Repositório](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o)
 ______________
 
-### BootCamps - Digital Innovation OneBootCamps - Digital Innovation One
-jan de 2022 - abr de 2022jan de 2022 - abr de 2022
+### BootCamps - Digital Innovation One
+jan de 2022 - abr de 2022 
 
 ### Take Blip Web Developer
 
@@ -21,6 +22,9 @@ ________________
 
 O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento de games, uma das áreas da tecnologia que mais cresce em todo o mundo. No bootcamp, você vai aprender as linguagens essenciais para dar o primeiro passo como game developer, além de praticar em projetos de games hands-on que vão direto para seu portfólio.
 
+[Repositório](https://github.com/stars/TiagoMerc/lists/digital-innovation-one)
+
+### HTML, CSS e JavaScript
 <!--
 **TiagoMerc/TiagoMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
