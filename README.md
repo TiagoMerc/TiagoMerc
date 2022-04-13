@@ -24,7 +24,7 @@ O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja in
 
 :open_file_folder:   [Repositório](https://github.com/stars/TiagoMerc/lists/digital-innovation-one) :rocket:
 
-                                              ### HTML, CSS e JavaScript
+                                              **HTML, CSS e JavaScript**
 <!--
 **TiagoMerc/TiagoMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
