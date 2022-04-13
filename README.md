@@ -6,7 +6,7 @@
 
 Com o ONE vou me preparar para o emprego do futuro e ter novas oportunidades no mercado de trabalho. E fui escolhido para ser parte deste grupo! Vou aproveitar esta oportunidade para aprender e fazer conexões com outros colegas/devs e profissionais da área.
 
-Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard** e **soft skills**, com foco em programação e empreendedorismo.
+Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard** e **soft skills**, com foco em **programação e empreendedorismo**.
 
 :open_file_folder:   [Repositório](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
 ______________
@@ -24,7 +24,7 @@ O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja in
 
 :open_file_folder:   [Repositório](https://github.com/stars/TiagoMerc/lists/digital-innovation-one) :rocket:
 
-                                              **HTML, CSS e JavaScript**
+## HTML, CSS e JavaScript
 <!--
 **TiagoMerc/TiagoMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
