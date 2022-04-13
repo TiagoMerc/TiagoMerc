@@ -1,6 +1,6 @@
 ### Hi there | Meu nome é Tiago! 👋 
 
-## DEV em formação :computer: | :calendar: | :books: | :rocket:
+# DEV em formação :computer: | :calendar: | :books: | :rocket:
 
 ### ONE- Oracle Next Education + Alura
 
@@ -10,7 +10,7 @@ Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard
 
 ______________
 
-## BootCamps - Digital Innovation OneBootCamps - Digital Innovation One
+### BootCamps - Digital Innovation OneBootCamps - Digital Innovation One
 jan de 2022 - abr de 2022jan de 2022 - abr de 2022
 
 ### Take Blip Web Developer
