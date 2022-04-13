@@ -27,11 +27,11 @@ O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja in
 ________________
 # Fases 
 ## Atual: 
-:round_pushpin: HTML, CSS e JavaScript
+:round_pushpin:  HTML, CSS e JavaScript
 ## Próximo passos/médio prazo:
-:hourglass: Full-stack
+:hourglass:  Full-stack
 ## Futuro/longo prazo: 
-:checkered_flag: BI + BA + Full-stack + Empreendedorismo 
+:checkered_flag:  BI + BA + Full-stack + Empreendedorismo 
 <!--
 **TiagoMerc/TiagoMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
