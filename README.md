@@ -1,4 +1,6 @@
-## Hi there | Meu nome é Tiago1 👋 #### DEV em formação :computer: | :calendar: | :books: | :rocket:
+## Hi there | Meu nome é Tiago1 👋 
+
+#### DEV em formação :computer: | :calendar: | :books: | :rocket:
 
 ### ONE- Oracle Next Education + Alura
 
