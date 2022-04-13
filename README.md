@@ -11,10 +11,10 @@ Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard
 :open_file_folder:   [Repositório](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
 ______________
 
-### :rocket: BootCamps - Digital Innovation One
+### :computer: BootCamps - Digital Innovation One
 jan de 2022 - abr de 2022 
 
-### Take Blip Web Developer
+### :rocket:  Take Blip Web Developer
 
 Hey Dev, o que acha de aproveitar essa oportunidade única para se engajar ainda mais na tecnologia de JavaScript? Com o Bootcamp Take Blip Web Developer, você aprenderá o melhor de JavaScript – uma linguagem que entrega uma aplicação de ponta a ponta do Back-end ao Front-end (web ou mobile).
 
