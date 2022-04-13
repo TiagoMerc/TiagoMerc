@@ -8,7 +8,7 @@ Com o ONE vou me preparar para o emprego do futuro e ter novas oportunidades no 
 
 Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard** e **soft skills**, com foco em programação e empreendedorismo.
 
-:open_file_folder: [Repositório](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
+:open_file_folder:  [Repositório](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
 ______________
 
 ### BootCamps - Digital Innovation One
@@ -22,7 +22,7 @@ ________________
 
 O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento de games, uma das áreas da tecnologia que mais cresce em todo o mundo. No bootcamp, você vai aprender as linguagens essenciais para dar o primeiro passo como game developer, além de praticar em projetos de games hands-on que vão direto para seu portfólio.
 
-[Repositório](https://github.com/stars/TiagoMerc/lists/digital-innovation-one)
+:open_file_folder:  [Repositório](https://github.com/stars/TiagoMerc/lists/digital-innovation-one)
 
 ### HTML, CSS e JavaScript
 <!--
