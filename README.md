@@ -27,7 +27,7 @@ O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja in
 ________________
 #                                           Fases 
 ## Atual: 
-:round_pushpin:  HTML, CSS e JavaScript
+:round_pushpin:  **Frontend:** HTML, CSS e JavaScript
 ## Próximo passos/médio prazo:
 :hourglass:  Full-stack
 ## Futuro/longo prazo: 
