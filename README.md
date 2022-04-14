@@ -28,12 +28,12 @@ ________________
 #                                           Fases 
 ## Atual: 
 :round_pushpin:  **Frontend:** HTML, CSS e JavaScript
-### Próximos passos 
- - Médio prazo:
-:hourglass:  Full-stack
+#### Próximos passos 
+ - :hourglass: Médio prazo:
+  Full-stack
 
- -  Futuro/longo prazo: 
-:checkered_flag:  BI + BA + Full-stack + Empreendedorismo 
+ -  :checkered_flag: Futuro/longo prazo: 
+  BI + BA + Full-stack + Empreendedorismo 
 
 
 <!--
