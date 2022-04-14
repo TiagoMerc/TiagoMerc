@@ -29,10 +29,10 @@ ________________
 ## Atual: 
 :round_pushpin:  **Frontend:** HTML, CSS e JavaScript
 #### Próximos passos 
- - :hourglass: Médio prazo:
+  :hourglass: **Médio prazo:**
   Full-stack
 
- -  :checkered_flag: Futuro/longo prazo: 
+   :checkered_flag: **Futuro/longo prazo:** 
   BI + BA + Full-stack + Empreendedorismo 
 
 
