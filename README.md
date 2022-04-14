@@ -28,11 +28,14 @@ ________________
 #                                           Fases 
 ## Atual: 
 :round_pushpin:  **Frontend:** HTML, CSS e JavaScript
-## Próximos passos 
+### Próximos passos 
  - Médio prazo:
 :hourglass:  Full-stack
+
  -  Futuro/longo prazo: 
 :checkered_flag:  BI + BA + Full-stack + Empreendedorismo 
+
+
 <!--
 **TiagoMerc/TiagoMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
