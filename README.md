@@ -2,7 +2,7 @@
 
 # DEV em formação :computer: | :books: | :rocket:
 
-### ONE- Oracle Next Education + Alura
+### ONE - Oracle Next Education + Alura
 
 Com o ONE vou me preparar para o emprego do futuro e ter novas oportunidades no mercado de trabalho. E fui escolhido para ser parte deste grupo! Vou aproveitar esta oportunidade para aprender e fazer conexões com outros colegas/devs e profissionais da área.
 
