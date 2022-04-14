@@ -12,13 +12,13 @@ Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard
 ______________
 
 ### :computer: BootCamps - Digital Innovation One
-jan de 2022 - abr de 2022 
+jan de 2022 - abr de 2022 |  - Carga horária total de 141 horas
 
-### :rocket:  Take Blip Web Developer
+### :rocket:  Take Blip Web Developer - Carga horária de 78 horas
 
 Hey Dev, o que acha de aproveitar essa oportunidade única para se engajar ainda mais na tecnologia de JavaScript? Com o Bootcamp Take Blip Web Developer, você aprenderá o melhor de JavaScript – uma linguagem que entrega uma aplicação de ponta a ponta do Back-end ao Front-end (web ou mobile).
 
-### :rocket: Órbi Web Games Developer
+### :rocket: Órbi Web Games Developer - Carga horária de 63 horas
 
 O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento de games, uma das áreas da tecnologia que mais cresce em todo o mundo. No bootcamp, você vai aprender as linguagens essenciais para dar o primeiro passo como game developer, além de praticar em projetos de games hands-on que vão direto para seu portfólio.
 
