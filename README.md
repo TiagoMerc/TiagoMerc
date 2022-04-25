@@ -48,7 +48,8 @@ ________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMerc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMerc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-## Contatos
+  
+  ## Contatos
   
   <div> 
  
@@ -60,7 +61,6 @@ ________________
  
     <a href="https://www.linkedin.com/in/tiago-merc%C3%AAs-ros%C3%A1rio-b6177b85" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/mariosam/mariosam/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
