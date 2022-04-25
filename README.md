@@ -48,6 +48,22 @@ ________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMerc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMerc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+## Contatos
+  
+  <div> 
+ 
+  <a href="https://instagram.com/tiagomr.7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+    <a href="https://twitter.com/TiagoTMR_7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:tmrrosario9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+    <a href="https://www.linkedin.com/in/tiago-merc%C3%AAs-ros%C3%A1rio-b6177b85" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/mariosam/mariosam/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
 <!--
 **TiagoMerc/TiagoMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
