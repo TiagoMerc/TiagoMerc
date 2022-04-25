@@ -42,7 +42,7 @@ ________________
    :checkered_flag: **Futuro/longo prazo:** 
   BI + BA + Full-stack + Empreendedorismo 
 
-
+## Painel
   <div align="center">
   <a href="https://github.com/TiagoMerc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMerc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
