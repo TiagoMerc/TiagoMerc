@@ -19,11 +19,11 @@ Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard
 
 ______________
 # JavaScript 
-<div style="display: inline_block"><br>
+<div style="display: inline_block text-align: center"><br>
     <img align="center" alt="SAM-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-### Estudo aprofundado na lógica e sua estrutura
+#### Estudo aprofundado na lógica e sua estrutura
 ______________
 
 ### :computer: BootCamps - Digital Innovation One
