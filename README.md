@@ -17,6 +17,12 @@ Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard
 
 :open_file_folder: [Repositório](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
 ______________
+# JavaScript <div style="display: inline_block"><br>
+    <img align="center" alt="SAM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+### Estudo aprofundado na lógica e sua estrutura
+______________
 
 ### :computer: BootCamps - Digital Innovation One
 jan de 2022 - abr de 2022 |  - Carga horária total de 141 horas
