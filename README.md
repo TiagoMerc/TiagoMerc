@@ -50,12 +50,12 @@ ________________
    :checkered_flag: **Futuro/longo prazo:** 
   BI + BA + Full-stack + Empreendedorismo 
 ________________
-##Empenhado na possibilidade de trasnformar vidaas usando a tecnologia como instrumento.
+## Empenhado na possibilidade de trasnformar vidaas usando a tecnologia como instrumento.
 
 **Projeto acadêmico:**
-________________
-[ELAS](https://github.com/stars/TiagoMerc/lists/impacto-social)
 
+[ELAS](https://github.com/stars/TiagoMerc/lists/impacto-social)
+________________
 ## Painel
   <div align="center">
   <a href="https://github.com/TiagoMerc">
