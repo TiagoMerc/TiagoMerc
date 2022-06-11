@@ -55,6 +55,8 @@ ________________
 **Projeto acadêmico:**
 
 [ELAS](https://github.com/stars/TiagoMerc/lists/impacto-social)
+
+[TOPICOS ESPECIAIS EM SISTEMAS DE INFORMACAO II - UFVJM](https://github.com/TiagoMerc/TOPICOS-ESPECIAIS-EM-SISTEMAS-DE-INFORMACAO-II---UFVJM)
 ________________
 ## Painel
   <div align="center">
