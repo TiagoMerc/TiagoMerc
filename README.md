@@ -15,8 +15,10 @@ Com o ONE vou me preparar para o emprego do futuro e ter novas oportunidades no 
 
 Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard** e **soft skills**, com foco em **programação e empreendedorismo**.
 
-:open_file_folder: [Repositório](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
-##teste
+:open_file_folder: [Iniciante em Programação F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
+
+:open_file_folder: [Front End F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
+
 
 ______________
 # JavaScript 
