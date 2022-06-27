@@ -43,6 +43,10 @@ Hey Dev, o que acha de aproveitar essa oportunidade única para se engajar ainda
 
 O bootcamp Órbi Web Games Developer é um programa gratuito para quem deseja iniciar a carreira em desenvolvimento de games, uma das áreas da tecnologia que mais cresce em todo o mundo. No bootcamp, você vai aprender as linguagens essenciais para dar o primeiro passo como game developer, além de praticar em projetos de games hands-on que vão direto para seu portfólio.
 
+### :rocket: Decola Tech 3a edição
+
+O programa contará com uma trilha educacional online focada em Javascript e desenvolvimento mobile com React Native, onde os candidatos poderão aprender desde o básico, como Introdução a HTML5 e CSS3, até o avançado ao desenvolver um projeto para celulares do zero com React Native.
+
 :open_file_folder:   [Repositório](https://github.com/stars/TiagoMerc/lists/digital-innovation-one) :rocket:
 
 ________________
