@@ -15,7 +15,7 @@ Com o ONE vou me preparar para o emprego do futuro e ter novas oportunidades no 
 
 Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard** e **soft skills**, com foco em **programação e empreendedorismo**.
 
-:open_file_folder: [Iniciante em Programação F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/iniciante-em-programa%C3%A7%C3%A3o-f2t2) &#8989;
+:open_file_folder: [Iniciante em Programação F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/iniciante-em-programa%C3%A7%C3%A3o-f2t2) &#9989;
 
 :open_file_folder: [Front End F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/front-end-f2t2-one) :rocket:
 
