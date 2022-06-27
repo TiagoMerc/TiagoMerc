@@ -17,7 +17,7 @@ Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard
 
 :open_file_folder: [Iniciante em Programação F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
 
-:open_file_folder: [Front End F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/oracle-alura-dev-em-forma%C3%A7%C3%A3o) :rocket:
+:open_file_folder: [Front End F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/front-end-f2t2-one) :rocket:
 
 
 ______________
