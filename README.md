@@ -62,11 +62,14 @@ ________________
 ________________
 ## Empenhado na possibilidade de trasnformar vidaas usando a tecnologia como instrumento.
 
+________________
 **Projeto acadêmico:**
 
 [ELAS](https://github.com/stars/TiagoMerc/lists/impacto-social)
 
 [TOPICOS ESPECIAIS EM SISTEMAS DE INFORMACAO II - UFVJM](https://github.com/TiagoMerc/TOPICOS-ESPECIAIS-EM-SISTEMAS-DE-INFORMACAO-II---UFVJM)
+
+[Box Sizing](https://github.com/TiagoMerc/TOPICOS-ESPECIAIS-EM-SISTEMAS-DE-INFORMACAO-II-UFVJM)
 ________________
 ## Painel
   <div align="center">
