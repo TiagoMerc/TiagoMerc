@@ -30,7 +30,7 @@ ______________
 </div>
 
 
-[lIVRO: JAVASCRIPT & JQUERY | Jon Duckett](https://github.com/TiagoMerc/Estudando-JavaScript)
+[Livro: JAVASCRIPT & JQUERY | Jon Duckett](https://github.com/TiagoMerc/Estudando-JavaScript)
 
 
 #### Estudo aprofundado na lógica e sua estrutura
