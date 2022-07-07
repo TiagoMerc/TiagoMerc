@@ -29,6 +29,7 @@ ______________
     <img align="center" alt="SAM-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+[lIVRO: JAVASCRIPT & JQUERY | Jon Duckett](https://github.com/TiagoMerc/Estudando-JavaScript)
 #### Estudo aprofundado na lógica e sua estrutura
 ______________
 
