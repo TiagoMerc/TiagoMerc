@@ -22,7 +22,7 @@ Neste programa de 6 meses de duração, vou fazer cursos para desenvolver **hard
 
 :open_file_folder: [Front End F2T2 - ONE](https://github.com/stars/TiagoMerc/lists/front-end-f2t2-one)  &#9989
 
-:open_file_folder: [Java e Orientação a Objetos F2T2 - ONE | Alura](https://github.com/stars/TiagoMerc/lists/java-e-oo-one-alura) :rocket: U+2615
+:open_file_folder: [Java e Orientação a Objetos F2T2 - ONE | Alura](https://github.com/stars/TiagoMerc/lists/java-e-oo-one-alura) :rocket: :coffee:
 
 ______________
 # JavaScript 
