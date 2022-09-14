@@ -1,6 +1,6 @@
 ### Hi there | Meu nome é Tiago! 👋 
 
-techguide.sh/external/user/repository
+https://github.com/alura/techguide.git
 
 Empenhadao na possibilidade de transformar vidas, usando a tecnologia como instrumento. 
 
