@@ -1,5 +1,7 @@
 ### Hi there | Meu nome é Tiago! 👋 
 
+techguide.sh/external/user/repository
+
 Empenhadao na possibilidade de transformar vidas, usando a tecnologia como instrumento. 
 
 <div style="display: inline_block"><br>
