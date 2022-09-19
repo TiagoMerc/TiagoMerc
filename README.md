@@ -1,6 +1,8 @@
 ### Hi there | Meu nome é Tiago! 👋 
 
-https://github.com/alura/techguide.git
+Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
+
+https://techguide.sh/
 
 Empenhadao na possibilidade de transformar vidas, usando a tecnologia como instrumento. 
 
