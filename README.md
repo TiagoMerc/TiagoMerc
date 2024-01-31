@@ -8,6 +8,7 @@ Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é tran
 
 ### Referências: 
 - Lendo no momento:
+  
 📖 SHARDA, Ramesh; DELEN, Dursun; TURBAN, Efraim. Business Intelligence e Análise de Dados para Gestão do Negócio, 4 ed. Porto Alegre: Bookman, 2019.
 
 📖 Knaflic, Cole N. Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios. Edição padrão. São Paulo: Alta Books, 2019.
