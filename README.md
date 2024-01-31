@@ -1,4 +1,8 @@
-### Hi there | Meu nome é Tiago! 👋 
+### Hi there | Meu nome é Tiago! Espero que esteja bem e agradeço por você está aqui! \[+_+]/ 👋 
+
+https://techguide.sh/pt-BR/path/business-intelligence/ 
+
+Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é transformar, de forma positiva, a vida das pessoas através do empreendedorismo, usando a tecnologia como instrumento. Tenho experiência como gerente de projetos em startups, com empreendedorismo de impacto social no terceiro setor e estudando para ser um analista de dados (Estatística, Análise de dados e uso de ferramentas, como Excel, Power BI e Looker Studio). 
 
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
 
