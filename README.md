@@ -1,9 +1,18 @@
 ### Hi there | Meu nome é Tiago! Espero que esteja bem e agradeço por você está aqui! \[+_+]/ 👋 
 
+#### Dedicando esforço na área de Dados
+
 https://techguide.sh/pt-BR/path/business-intelligence/ 
 
 Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é transformar, de forma positiva, a vida das pessoas através do empreendedorismo, usando a tecnologia como instrumento. Tenho experiência como gerente de projetos em startups, com empreendedorismo de impacto social no terceiro setor e estudando para ser um analista de dados (Estatística, Análise de dados e uso de ferramentas, como Excel, Power BI e Looker Studio). 
 
+### Referências: 
+- Lendo no momento:
+📖 SHARDA, Ramesh; DELEN, Dursun; TURBAN, Efraim. Business Intelligence e Análise de Dados para Gestão do Negócio, 4 ed. Porto Alegre: Bookman, 2019.
+📖 Knaflic, Cole N. Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios. Edição padrão. São Paulo: Alta Books, 2019.
+📚 Provost, Foster; Fawcett, Tom. Data Science para negócios: o que você precisa saber sobre mineração de dados e pensamento analítico de dados. São Paulo: Alta Books, 22 de março de 2016.
+
+______
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
 
 https://techguide.sh/
