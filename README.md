@@ -17,6 +17,9 @@ Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é tran
 ______
 **Estudos no momento | portfólio - em andamento:**
 
+## Data Analyst | Business Intelligence | Python & SQL | Power BI | AI and Innovation Project Manager
+
+
 ______
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
 
