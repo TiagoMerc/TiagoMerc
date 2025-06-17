@@ -14,6 +14,8 @@ Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é tran
 📖 Knaflic, Cole N. Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios. Edição padrão. São Paulo: Alta Books, 2019.
 
 📚 Provost, Foster; Fawcett, Tom. Data Science para negócios: o que você precisa saber sobre mineração de dados e pensamento analítico de dados. São Paulo: Alta Books, 22 de março de 2016.
+______
+**Estudos no momento | portfólio - em andamento:**
 
 ______
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
