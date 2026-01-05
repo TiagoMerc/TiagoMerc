@@ -1,6 +1,6 @@
-### Hi there | Meu nome é Tiago! Espero que esteja bem e agradeço por você está aqui! \[+_+]/ 👋 
+### Hi there | Meu nome é Tiago! Espero que esteja bem e agradeço por você está aqui! \[+_+]/   👋 
 
-#### Dedicando esforço na área de Dados
+#### Dedicando esforço para ser um Analista de Dados
 
 https://techguide.sh/pt-BR/path/business-intelligence/ 
 
@@ -17,9 +17,10 @@ Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é tran
 ______
 **Estudos no momento | portfólio - em andamento:**
 
-## Data Analyst | Business Intelligence | Python & SQL | Power BI | AI and Innovation Project Manager
+## Analista de Dados | BI & Estratégia | Excel • SQL • Python • Power BI | Inteligência de Negócios | Transformo dados em decisões que impulsionam negócios
 
-
+1 - Entendendo as características dos resultado da arrecadação de impostos e contribuições federais administrados pela Secretaria Especial da Receita Federal do Brasil (RFB).
+https://github.com/TiagoMerc/foco-no-aprendizado-como-Analista-de-Dados
 ______
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
 
