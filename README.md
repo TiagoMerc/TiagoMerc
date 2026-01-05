@@ -2,8 +2,6 @@
 
 #### Dedicando esforço para ser um Analista de Dados
 
-https://techguide.sh/pt-BR/path/business-intelligence/ 
-
 Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é transformar, de forma positiva, a vida das pessoas através do empreendedorismo, usando a tecnologia como instrumento. Tenho experiência como gerente de projetos em startups, com empreendedorismo de impacto social no terceiro setor e estudando para ser um analista de dados (Estatística, Análise de dados e uso de ferramentas, como *Excel*, *Power BI* e Looker Studio). 
 
 ### Referências: 
@@ -15,9 +13,9 @@ Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é tran
 
 📚 Provost, Foster; Fawcett, Tom. Data Science para negócios: o que você precisa saber sobre mineração de dados e pensamento analítico de dados. São Paulo: Alta Books, 22 de março de 2016.
 ______
-**Estudos no momento | portfólio - em andamento:**
+## **Estudos no momento | portfólio - em andamento:**
 
-## Analista de Dados | BI & Estratégia | Excel • SQL • Python • Power BI | Inteligência de Negócios | Transformo dados em decisões que impulsionam negócios
+### Analista de Dados | BI & Estratégia | Excel • SQL • Python • Power BI | Inteligência de Negócios | Transformo dados em decisões que impulsionam negócios
 
 1 - Entendendo as características dos resultado da arrecadação de impostos e contribuições federais administrados pela Secretaria Especial da Receita Federal do Brasil (RFB).
 https://github.com/TiagoMerc/foco-no-aprendizado-como-Analista-de-Dados
@@ -25,6 +23,8 @@ ______
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
 
 https://techguide.sh/
+
+Guia para a área de Dados: https://techguide.sh/pt-BR/path/business-intelligence/ 
 
 Empenhadao na possibilidade de transformar vidas, usando a tecnologia como instrumento. 
 
