@@ -19,6 +19,10 @@ ______
 
 1 - Entendendo as características dos resultado da arrecadação de impostos e contribuições federais administrados pela Secretaria Especial da Receita Federal do Brasil (RFB).
 https://github.com/TiagoMerc/foco-no-aprendizado-como-Analista-de-Dados
+
+2 - GCP e Pulumi
+
+https://github.com/TiagoMerc/dataops_gcp_pulumi 
 ______
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
 
