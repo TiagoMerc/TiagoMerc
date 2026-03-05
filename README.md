@@ -1,10 +1,44 @@
 ### Hi there | Meu nome é Tiago! Espero que esteja bem e agradeço por você está aqui! \[+_+]/   👋 
 
-#### Análise de Dados
+### Analista de Dados | Power BI • SQL • Python • Excel | Visualização de Dados | KPIs | Inteligência de Negócios
 
-Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é transformar, de forma positiva, a vida das pessoas através do empreendedorismo, usando a tecnologia como instrumento. Tenho experiência como gerente de projetos em startups, com empreendedorismo de impacto social no terceiro setor e estudando para ser um analista de dados (Estatística, Análise de dados e uso de ferramentas, como *Excel*, *Power BI* e Looker Studio). 
+Analista de Dados Júnior com foco em Business Intelligence e Data Analytics, atuando na transformação de dados em insights estratégicos para apoio à tomada de decisão.
 
-### Referências: 
+Experiência em:
+• Construção de dashboards e relatórios no Power BI
+• Modelagem, tratamento e consulta de dados com SQL
+• Análise exploratória e manipulação de dados com Python
+• Definição e acompanhamento de KPIs
+• Análise de performance e indicadores de negócio
+• Estruturação e organização de bases de dados
+
+Atuação em projetos de transformação digital e desenvolvimento de soluções orientadas a dados, com visão estratégica de negócio e foco em melhoria de processos e performance organizacional.
+
+Vivência como professor de Desenvolvimento de Sistemas, fortalecendo habilidades de comunicação, didática e capacidade de traduzir dados complexos em análises claras e acionáveis para diferentes públicos.
+
+Pós-graduando em Data Science e Inteligência Artificial, com aprofundamento contínuo em Business Intelligence, automação de processos e análise de dados.
+
+Busco oportunidade como Analista de Dados Júnior ou BI Analyst, contribuindo com análises estruturadas, geração de insights e suporte à tomada de decisão baseada em dados.
+
+Aberto a conexões e oportunidades nas áreas de Dados, BI e Estratégia.
+
+Contato: tmrrosario9@gmail.com
+
+WhatsApp: wa.me/+5538988074452
+
+______
+## **Projetos | portfólio - em construção:**
+
+### Analista de Dados | Power BI • SQL • Python • Excel | Visualização de Dados | KPIs | Inteligência de Negócios
+
+#### 1 - Entendendo as características dos resultado da arrecadação de impostos e contribuições federais administrados pela Secretaria Especial da Receita Federal do Brasil (RFB).
+https://github.com/TiagoMerc/foco-no-aprendizado-como-Analista-de-Dados
+
+####  **2 - Modelo de Bucket de Armazenamento do Google Cloud Storage com Pulumi para GCP em Python**
+
+https://github.com/TiagoMerc/dataops_gcp_pulumi 
+
+#### Referências: 
 - Lendo no momento:
   
 📖 SHARDA, Ramesh; DELEN, Dursun; TURBAN, Efraim. Business Intelligence e Análise de Dados para Gestão do Negócio, 4 ed. Porto Alegre: Bookman, 2019.
@@ -12,17 +46,7 @@ Eu sou o Tiago Mercês Rosário e meu grande objetivo/propósito de vida é tran
 📖 Knaflic, Cole N. Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios. Edição padrão. São Paulo: Alta Books, 2019.
 
 📚 Provost, Foster; Fawcett, Tom. Data Science para negócios: o que você precisa saber sobre mineração de dados e pensamento analítico de dados. São Paulo: Alta Books, 22 de março de 2016.
-______
-## **Estudos no momento | portfólio - em andamento:**
 
-### Analista de Dados | BI & Estratégia | Excel • SQL • Python • Power BI | Inteligência de Negócios | Transformo dados em decisões que impulsionam negócios
-
-1 - Entendendo as características dos resultado da arrecadação de impostos e contribuições federais administrados pela Secretaria Especial da Receita Federal do Brasil (RFB).
-https://github.com/TiagoMerc/foco-no-aprendizado-como-Analista-de-Dados
-
-## **2 - Modelo de Bucket de Armazenamento do Google Cloud Storage com Pulumi para GCP em Python**
-
-https://github.com/TiagoMerc/dataops_gcp_pulumi 
 ______
 Jornada de aprendizado **Alura**. Um mapeamento das principais tecnologias demandadas pelo mercado, com nossas sugestões e opiniões.
 
