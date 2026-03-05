@@ -20,7 +20,7 @@ ______
 1 - Entendendo as características dos resultado da arrecadação de impostos e contribuições federais administrados pela Secretaria Especial da Receita Federal do Brasil (RFB).
 https://github.com/TiagoMerc/foco-no-aprendizado-como-Analista-de-Dados
 
-2 - GCP e Pulumi
+## **2 - Modelo de Bucket de Armazenamento do Google Cloud Storage com Pulumi para GCP em Python**
 
 https://github.com/TiagoMerc/dataops_gcp_pulumi 
 ______
