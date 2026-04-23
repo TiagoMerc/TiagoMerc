@@ -1,6 +1,6 @@
 ### Hi there | Meu nome é Tiago! Espero que esteja bem e agradeço por você está aqui! \[+_+]/   👋 
 
-### Analista de Dados | Power BI • SQL • Python • Excel | Visualização de Dados | KPIs | Inteligência de Negócios
+### Analista de Dados | Power BI • SQL • Python • Excel • GCP • Looker Studio | Visualização de Dados | KPIs | Inteligência de Negócios
 
 Analista de Dados Júnior com foco em Business Intelligence e Data Analytics, atuando na transformação de dados em insights estratégicos para apoio à tomada de decisão.
 
