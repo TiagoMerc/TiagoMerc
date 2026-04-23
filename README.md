@@ -6,10 +6,15 @@ Analista de Dados Júnior com foco em Business Intelligence e Data Analytics, at
 
 Experiência em:
 • Construção de dashboards e relatórios no Power BI
+
 • Modelagem, tratamento e consulta de dados com SQL
+
 • Análise exploratória e manipulação de dados com Python
+
 • Definição e acompanhamento de KPIs
+
 • Análise de performance e indicadores de negócio
+
 • Estruturação e organização de bases de dados
 
 Atuação em projetos de transformação digital e desenvolvimento de soluções orientadas a dados, com visão estratégica de negócio e foco em melhoria de processos e performance organizacional.
