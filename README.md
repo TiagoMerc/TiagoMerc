@@ -5,6 +5,7 @@
 Analista de Dados Júnior com foco em Business Intelligence e Data Analytics, atuando na transformação de dados em insights estratégicos para apoio à tomada de decisão.
 
 Experiência em:
+
 • Construção de dashboards e relatórios no Power BI
 
 • Modelagem, tratamento e consulta de dados com SQL
@@ -30,6 +31,12 @@ Aberto a conexões e oportunidades nas áreas de Dados, BI e Estratégia.
 Contato: tmrrosario9@gmail.com
 ______
 ## **Projetos | portfólio - em construção:**
+
+### BI e Analytics
+
+Repositório:
+https://github.com/TiagoMerc/BI-e-Analytics
+
 
 ### Analista de Dados | Power BI • SQL • Python • Excel | Visualização de Dados | KPIs | Inteligência de Negócios
 
