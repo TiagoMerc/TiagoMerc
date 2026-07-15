@@ -30,6 +30,8 @@ Busco oportunidade como Analista de Dados Júnior ou BI Analyst, contribuindo co
 Aberto a conexões e oportunidades nas áreas de Dados, BI e Estratégia.
 
 Contato: tmrrosario9@gmail.com
+
+https://api.whatsapp.com/send/?phone=%2B5538988074452&text&type=phone_number&app_absent=0
 ______
 ## **Projetos | portfólio - em construção:**
 
