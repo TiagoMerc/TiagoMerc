@@ -36,13 +36,12 @@ Contato: tmrrosario9@gmail.com
 ______
 ## **Projetos | portfólio - em construção:**
 
-### BI e Analytics
+#### BI e Analytics
 
 Repositório:
 https://github.com/TiagoMerc/BI-e-Analytics
 
 
-### Analista de Dados | Power BI • SQL • Python • Excel | Visualização de Dados | KPIs | Inteligência de Negócios
 
 #### 1 - Entendendo as características dos resultado da arrecadação de impostos e contribuições federais administrados pela Secretaria Especial da Receita Federal do Brasil (RFB).
 https://github.com/TiagoMerc/foco-no-aprendizado-como-Analista-de-Dados
